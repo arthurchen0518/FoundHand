@@ -18,7 +18,7 @@
     <a href="https://cs.brown.edu/people/ssrinath/">Srinath Sridhar</a>
 </p>
 
-<img src="./assets/teaser.jpg" alt="[Teaser Figure]" style="zoom:80%;" />
+<img src="./assets/teaser.png" alt="[Teaser Figure]" style="zoom:80%;" />
 
 
 ## Installation

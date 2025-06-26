@@ -38,9 +38,9 @@ pip install timm==1.0.7 tqdm opencv-python scikit-image matplotlib tensorboard
 ## Demo Notebooks
 ```shell
 ./demos/FixHand.ipynb       # Fix malformed AI-generated hand.
-./demos/Image2Image.ipynb	  # Gesture transfer and domain transfer.
-./demos/Image2Video.ipynb		# Video generation given the first frame and hand motion sequence.
-./demos/NVS.ipynb		        # Novel view synthesis.
+./demos/Image2Image.ipynb   # Gesture transfer and domain transfer.
+./demos/Image2Video.ipynb   # Video generation given the first frame and hand motion sequence.
+./demos/NVS.ipynb	    # Novel view synthesis.
 ```
 
 ## Checklist

@@ -2,7 +2,7 @@
 
 [CVPR 2025] Official repository of "FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation".
 
-[[Project Page]](https://ivl.cs.brown.edu/research/foundhand.html) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FoundHand_Large-Scale_Domain-Specific_Learning_for_Controllable_Hand_Image_Generation_CVPR_2025_paper.pdf) [Hugging Face](https://huggingface.co/spaces/Chaerin5/FoundHand)
+[[Project Page]](https://ivl.cs.brown.edu/research/foundhand.html) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FoundHand_Large-Scale_Domain-Specific_Learning_for_Controllable_Hand_Image_Generation_CVPR_2025_paper.pdf) [[Hugging Face]](https://huggingface.co/spaces/Chaerin5/FoundHand)
 
 <p> <strong>Authors</strong>:
     <a href="https://arthurchen0518.github.io/">Kefan Chen<sup>*</sup></a>

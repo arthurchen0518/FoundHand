@@ -2,7 +2,7 @@
 
 [CVPR 2025] Official repository of "FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation".
 
-[[Project Page]](https://ivl.cs.brown.edu/research/foundhand.html) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FoundHand_Large-Scale_Domain-Specific_Learning_for_Controllable_Hand_Image_Generation_CVPR_2025_paper.pdf) 
+[[Project Page]](https://ivl.cs.brown.edu/research/foundhand.html) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FoundHand_Large-Scale_Domain-Specific_Learning_for_Controllable_Hand_Image_Generation_CVPR_2025_paper.pdf) [Hugging Face](https://huggingface.co/spaces/Chaerin5/FoundHand)
 
 <p> <strong>Authors</strong>:
     <a href="https://arthurchen0518.github.io/">Kefan Chen<sup>*</sup></a>
@@ -71,7 +71,8 @@ pip install timm==1.0.7 tqdm opencv-python scikit-image matplotlib tensorboard
 
 3. Download pretrained [FoundHand](https://drive.google.com/file/d/1AR08bpX5Ync7VykXq-S7ww8YIbRihVMD/view?usp=sharing), [SAM](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth), and [SD-VAE](https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt) models and place them under `./weights/`.
 
-## Demo Notebooks
+## Demo
+We encourage users to try our Hugging Face [demo](https://huggingface.co/spaces/Chaerin5/FoundHand) for a more accessible UI. We also provide Jupyter notebook demos to run.
 ```shell
 ./demos/FixHand.ipynb       # Fix malformed AI-generated hand.
 ./demos/Image2Image.ipynb   # Gesture transfer and domain transfer.

@@ -92,6 +92,8 @@ We encourage users to try our Hugging Face [demo](https://huggingface.co/spaces/
 
 Part of this work was done during Kefan (Arthur) Chen’s internship at Meta Reality Lab. This work was additionally supported by NSF CAREER grant #2143576, NASA grant #80NSSC23M0075, and an Amazon Cloud Credits Award.
 
+This codebase borrows from [DiT](https://github.com/facebookresearch/DiT).
+
 ## License
 
 This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.

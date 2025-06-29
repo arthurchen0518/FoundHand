@@ -67,6 +67,10 @@ conda activate foundhand
 pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0  --index-url https://download.pytorch.org/whl/cu121
 pip install lightning==2.3.0
 pip install timm==1.0.7 tqdm opencv-python scikit-image matplotlib tensorboard
+
+git clone git@github.com:arthurchen0518/FoundHand.git
+cd FoundHand
+pip install -e
 ```
 
 3. Download pretrained [FoundHand](https://drive.google.com/file/d/1AR08bpX5Ync7VykXq-S7ww8YIbRihVMD/view?usp=sharing), [SAM](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth), and [SD-VAE](https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt) models and place them under `./weights/`.
